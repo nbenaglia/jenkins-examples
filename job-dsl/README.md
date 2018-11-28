@@ -1,6 +1,7 @@
 # Job DSL
 
-See Job DSL API at https://jenkinsci.github.io/job-dsl-plugin/
+Job DSL API at https://jenkinsci.github.io/job-dsl-plugin/
+
 Commands at https://github.com/jenkinsci/job-dsl-plugin/wiki/Job-DSL-Commands
 
 * Install plugin JOB DSL (info at https://github.com/jenkinsci/job-dsl-plugin)
